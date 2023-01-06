@@ -2,7 +2,7 @@
 
 This is a project that serves as a template for developing projects in CubeMX using FreeRTOS
 with the FreeRTOS PLUS TCP IP stack on an **ST STM32F429ZI** Microcontroller running on
-an ** STNUCLEO-F429ZI** development board.
+an **STNUCLEO-F429ZI** development board.
 
 ## Background
 
